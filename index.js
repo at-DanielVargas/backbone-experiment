@@ -1,0 +1,1 @@
+let apiUrl = "http://5dbb6c3e3ec5fb0014319d62.mockapi.io/api/v1/"; //from mockapi
